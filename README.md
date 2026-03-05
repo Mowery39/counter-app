@@ -2,6 +2,9 @@
 
 A simple JavaScript counter that can increase, decrease, and reset.
 
+## Live Demo
+https://mowery39.github.io/counter-app/
+
 ## Features
 - Increase the counter
 - Decrease the counter
